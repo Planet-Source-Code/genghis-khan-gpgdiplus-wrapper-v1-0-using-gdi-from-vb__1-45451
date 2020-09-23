@@ -1,0 +1,19 @@
+class  cGraphicsPath
+method----> CreatePathPointF
+method----> CreatePathPointL
+method----> GetPathData
+method----> GetPathTypes
+
+class  cRegion
+method----> CreateFromData
+method----> GetData
+
+class cGraphicsPathIterator
+class Metafile
+class MetafileHeader
+
+class  cGraphics
+method----> AddMetafileComment
+method----> EnumerateMetafile
+method----> EnumerateMetafile
+method----> MeasureDriverString
